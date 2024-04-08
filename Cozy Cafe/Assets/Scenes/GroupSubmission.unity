@@ -581,7 +581,9 @@ PrefabInstance:
       value: mug (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
+    - {fileID: -8700617353114198275, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
@@ -776,7 +778,9 @@ PrefabInstance:
       value: mug
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
+    - {fileID: -8700617353114198275, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
@@ -1660,6 +1664,7 @@ PrefabInstance:
     - {fileID: 2271802456021630961, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     - {fileID: 1443204671350840413, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     - {fileID: 8797581778321468485, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
+    - {fileID: 5009821819225390101, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
@@ -2677,6 +2682,7 @@ PrefabInstance:
     - {fileID: 5684521264780122141, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     - {fileID: 8185029851158581225, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     - {fileID: 5009821819225390101, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
+    - {fileID: 8520616739773499256, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4820438237541617042, guid: 121840cf6808bbb48ad1ecc1f65db93c, type: 3}
       insertIndex: -1
@@ -2825,7 +2831,9 @@ PrefabInstance:
       value: mug (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
+    - {fileID: -8700617353114198275, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15a065857d019674ebc8e2c4953021fc, type: 3}
