@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,15 +329,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ryjoh\Documents\GitHub\Cozy-Cafe\Cozy Cafe
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: b2620000
-    m_LastClickedID: 25266
+    m_SelectedIDs: 70620000
+    m_LastClickedID: 25200
     m_ExpandedIDs: 0000000070620000726200007462000076620000786200007a62000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -418,7 +418,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 21}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -505,10 +505,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 464.6667}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 9ee1fffffcefffffe0f1ffff32fbfffff2660000
+      scrollPos: {x: 0, y: 448.6667}
+      m_SelectedIDs: 2ee7ffff
+      m_LastClickedID: -6354
+      m_ExpandedIDs: f4efffff66f1ffff32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.3743453, y: 5.5479198, z: 6.592945}
+    m_Target: {x: 5.6888633, y: 3.6223624, z: 1.7567415}
     speed: 2
-    m_Value: {x: 6.3743453, y: 5.5479198, z: 6.592945}
+    m_Value: {x: 5.6888633, y: 3.6223624, z: 1.7567415}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -910,13 +910,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.005895955, y: 0.13323669, z: 0.0011852889, w: -0.9912392}
+    m_Target: {x: -0.056946576, y: 0.6938317, z: -0.054656953, w: -0.71604246}
     speed: 2
-    m_Value: {x: 0.005894943, y: 0.13321382, z: 0.0011850855, w: -0.9910691}
+    m_Value: {x: -0.056936625, y: 0.69371045, z: -0.0546474, w: -0.71591735}
   m_Size:
-    m_Target: 5.678349
+    m_Target: 2.9755332
     speed: 2
-    m_Value: 5.678349
+    m_Value: 2.9755332
   m_Ortho:
     m_Target: 0
     speed: 2
